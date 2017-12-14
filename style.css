@@ -1,0 +1,83 @@
+body{
+	background:grey;
+}
+#cube1{
+	background:red;
+	width: 250px;
+	height: 250px;
+	display: flex;
+	align-items: flex-end;
+}
+#cube_1{
+	background:green;
+	border: solid;
+	width: 70px;
+	height: 70px;
+	display: flex;
+	justify-content: flex-end;
+}
+#cube2{
+	background:orange;
+	width: 250px;
+	height: 250px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: flex-end;
+
+}
+#cube_2{
+	border: solid;
+	background:red;
+	width: 70px;
+	height: 70px;
+}
+#cube3{
+	background:blue;
+	width: 250px;
+	height: 250px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+#cube_3{
+	border: solid;
+	background:#2EFE64;
+	width: 70px;
+	height: 70px;
+
+}
+#cube4{
+	background:black;
+	width: 250px;
+	height: 250px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	align-items: center;
+
+}
+#cube_4{
+	border: 3px solid white;
+	background:orange;
+	width: 60px;
+	height: 60px;
+}
+#cube5{
+	background:#F7FE2E;
+	width: 250px;
+	height: 250px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	align-items: center;
+
+}
+#cube_5{ 
+	border:solid;
+	background:#08088A;
+	width: 50px;
+	height: 50px;
+}
+#blok{
+	display: flex;
+}
