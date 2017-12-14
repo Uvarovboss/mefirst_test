@@ -1,5 +1,5 @@
 body{
-	background:grey;
+	background:#F8FBEF;
 }
 #cube1{
 	background:red;
@@ -9,7 +9,7 @@ body{
 	align-items: flex-end;
 }
 #cube_1{
-	background:green;
+	background:white;
 	border: solid;
 	width: 70px;
 	height: 70px;
@@ -27,7 +27,7 @@ body{
 }
 #cube_2{
 	border: solid;
-	background:red;
+	background:grey;
 	width: 70px;
 	height: 70px;
 }
